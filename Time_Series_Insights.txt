@@ -1,0 +1,12 @@
+TIME SERIES ANALYSIS INSIGHTS
+==================================================
+
+Total Trading Days : 1498
+Highest Stock Price : 2333.76
+Lowest Stock Price : 1619.35
+Average Stock Price : 1866.83
+Average Daily Return : -0.0095%
+Average Volatility : 0.6469%
+Maximum Turnover : 30,588,142.92
+Average Turnover : 1,492,040.02
+Current Trend : UPWARD (Bullish)
